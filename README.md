@@ -100,6 +100,11 @@ Earlier work — energy optimisation of **High-Altitude Platform Stations (HAPS)
 ## 📊 GitHub stats
 
 <p align="center">
+  <img src="metrics/general.svg" alt="GitHub stats" /><br>
+  <img src="metrics/languages.svg" alt="Most used languages" />
+</p>
+
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=Rachidusfallensis&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
 
