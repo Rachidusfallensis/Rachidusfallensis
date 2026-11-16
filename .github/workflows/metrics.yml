@@ -1,0 +1,42 @@
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 4 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: [.github/workflows/metrics.yml]
+
+permissions:
+  contents: write
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    steps:
+      - name: General stats and activity calendar
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/general.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Rachidusfallensis
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Paris
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+      - name: Most used languages
+        uses: lowlighter/metrics@v3.34
+        with:
+          filename: metrics/languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: Rachidusfallensis
+          template: classic
+          base: ""
+          config_timezone: Europe/Paris
+          plugin_languages: yes
+          plugin_languages_details: percentage
+          plugin_languages_limit: 8
+          plugin_languages_ignored: html, css, tex, jupyter notebook, shell, dockerfile, makefile
