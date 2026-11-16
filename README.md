@@ -10,7 +10,7 @@
   <a href="https://hal.science/hal-05803598"><img src="https://img.shields.io/badge/WETICE_2026-ARISE_paper-B03A2E?style=flat-square&logo=ieee&logoColor=white" alt="ARISE paper" /></a>
   <a href="https://alouette.ai"><img src="https://img.shields.io/badge/CIFRE-Alouette_AI-1F6FEB?style=flat-square" alt="Alouette AI" /></a>
   <img src="https://img.shields.io/badge/Lab-LIUPPA_·_UPPA-6E40C9?style=flat-square" alt="LIUPPA" />
-  <img src="https://img.shields.io/badge/Anglet-France_🇫🇷-2EA043?style=flat-square" alt="Location" />
+  <img src="https://img.shields.io/badge/Paris-France_🇫🇷-2EA043?style=flat-square" alt="Location" />
   <img src="https://komarev.com/ghpvc/?username=Rachidusfallensis&style=flat-square&color=blue&label=profile+views" alt="Profile views" />
 </p>
 
@@ -20,7 +20,7 @@
 
 ```yaml
 name:      Arona Fall
-from:      Senegal 🇸🇳 → based in Anglet, France 🇫🇷
+from:      Senegal 🇸🇳 → based in Paris, France 🇫🇷
 role:      CIFRE PhD candidate — Alouette AI × LIUPPA (Université de Pau et des Pays de l'Adour)
 question:  How can AI agents enable the effective adoption of MBSE
            throughout the life cycle of industrial cyber-physical systems?
@@ -98,11 +98,6 @@ Earlier work — energy optimisation of **High-Altitude Platform Stations (HAPS)
 ---
 
 ## 📊 GitHub stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=Rachidusfallensis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Rachidusfallensis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Rachidusfallensis&theme=tokyonight&hide_border=true" alt="GitHub streak" />
