@@ -41,7 +41,8 @@ ask_me_about: [Arcadia/Capella, RAG pipelines, LLMs for requirements engineering
 > **ARISE: A Multi-Agent Architecture for Requirements Specification in Model-Based Systems Engineering Workflows**
 > **A. Fall**, N. Evain, E. Exposito, P. Arnould, G. Jouffrai, A. Vidon
 > *34th IEEE International Conference on Enabling Technologies (WETICE 2026)*, Paris
-> *DOI : DOI: 10.1109/WETICE70595.2026.11772344*
+> 
+> **DOI : DOI: 10.1109/WETICE70595.2026.11772344**    (https://ieeexplore.ieee.org/abstract/document/11772344)
 > [![HAL](https://img.shields.io/badge/HAL-hal--05803598-B03A2E?style=for-the-badge&logo=hal&logoColor=white)](https://hal.science/hal-05803598)
 
 Earlier work — energy optimisation of **High-Altitude Platform Stations (HAPS)** with reinforcement learning (MSc thesis, Université Alioune Diop).
