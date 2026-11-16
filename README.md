@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Arona</h1>
 
 <p align="center">
-  <b>PhD Candidate in AI for Systems Engineering · AI Engineer · Data Engineer</b><br>
-  Senegalese 🇸🇳, based in Anglet, France 🇫🇷
+  <b>PhD Candidate in AI for Systems Engineering · AI Engineer · </b><br>
+  Senegalese 🇸🇳, based in Paris, France 🇫🇷
 </p>
 
 ---
