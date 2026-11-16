@@ -1,84 +1,120 @@
-<h1 align="center">Hi 👋, I'm Arona</h1>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Arona%20Fall&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20agents%20for%20Model-Based%20Systems%20Engineering&descAlignY=60&descSize=18&animation=fadeIn" alt="Arona Fall" />
 
 <p align="center">
-  <b>PhD Candidate in AI for Systems Engineering · AI Engineer · </b><br>
-  Senegalese 🇸🇳, based in Paris, France 🇫🇷
+  <a href="https://github.com/Rachidusfallensis">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=PhD+candidate+%E2%80%94+AI+for+Systems+Engineering;Multi-agent+LLM+architectures+for+MBSE;RAG+%C2%B7+Knowledge+Graphs+%C2%B7+Arcadia%2FCapella;From+engineering+documents+to+traceable+models" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://hal.science/hal-05803598"><img src="https://img.shields.io/badge/WETICE_2026-ARISE_paper-B03A2E?style=flat-square&logo=ieee&logoColor=white" alt="ARISE paper" /></a>
+  <a href="https://alouette.ai"><img src="https://img.shields.io/badge/CIFRE-Alouette_AI-1F6FEB?style=flat-square" alt="Alouette AI" /></a>
+  <img src="https://img.shields.io/badge/Lab-LIUPPA_·_UPPA-6E40C9?style=flat-square" alt="LIUPPA" />
+  <img src="https://img.shields.io/badge/Anglet-France_🇫🇷-2EA043?style=flat-square" alt="Location" />
+  <img src="https://komarev.com/ghpvc/?username=Rachidusfallensis&style=flat-square&color=blue&label=profile+views" alt="Profile views" />
 </p>
 
 ---
 
-### About me
+## 🧭 About me
 
-I work on making **Model-Based Systems Engineering (MBSE)** easier to adopt by putting **AI agents** to work alongside engineers.
+```yaml
+name:      Arona Fall
+from:      Senegal 🇸🇳 → based in Anglet, France 🇫🇷
+role:      CIFRE PhD candidate — Alouette AI × LIUPPA (Université de Pau et des Pays de l'Adour)
+question:  How can AI agents enable the effective adoption of MBSE
+           throughout the life cycle of industrial cyber-physical systems?
+working_on:
+  - Multi-agent architectures for requirements specification in MBSE
+  - Turning heterogeneous engineering documents into traceable Arcadia/Capella models
+  - LLMs · RAG · knowledge graphs · model versioning
+background: Networks & telecoms → data engineering → machine learning → AI for systems engineering
+ask_me_about: [Arcadia/Capella, RAG pipelines, LLMs for requirements engineering, data pipelines]
+```
 
-I'm a **CIFRE PhD candidate** between **[Alouette AI](https://alouette.ai)** and the **LIUPPA lab (Université de Pau et des Pays de l'Adour)**. My thesis asks: *how can AI agents enable the effective adoption of MBSE throughout the life cycle of industrial cyber-physical systems?* In practice, that means turning heterogeneous engineering documents into structured, traceable requirements and Arcadia/Capella models — with LLMs, RAG, knowledge graphs and multi-agent architectures.
-
-I came to research from **networks, data engineering and machine learning**, and I still enjoy building the pipelines and tools around the models.
-
-- 🔬 Currently: multi-agent architectures for requirements specification in MBSE workflows (Arcadia / Capella)
-- 🧩 Focus areas: LLM agents, RAG &amp; knowledge graphs, requirements engineering, model versioning
-- 🏭 Before: research engineer on the European **SAFE** project, and systems design &amp; AI intern at LIUPPA — Arcadia modelling of an engineering Fablab, AI-assisted requirements traceability
-- 📚 Side projects: an AI literature monitor for researchers, and a local RAG assistant for MBSE
-- 💬 Ask me about: Arcadia/Capella, RAG pipelines, LLMs for requirements engineering, data pipelines
-
----
-
-### Research
-
-| Year | Publication | Venue |
-|---|---|---|
-| 2026 | **ARISE: A Multi-Agent Architecture for Requirements Specification in Model-Based Systems Engineering Workflows** — A. Fall, N. Evain, E. Exposito, P. Arnould, G. Jouffrai, A. Vidon | IEEE WETICE 2026 *(accepted, proceedings in press)* |
-
-Earlier work: energy optimisation of **High-Altitude Platform Stations (HAPS)** with reinforcement learning (Master's thesis, Université Alioune Diop).
+**Before the PhD:** research engineer on the European **SAFE** project (Arcadia/Capella modelling, AI–MBSE integration framework, consortium meetings), and systems design &amp; AI intern at LIUPPA — Arcadia modelling of an engineering Fablab with LLM/RAG-assisted requirements traceability.
 
 ---
 
-### Projects
+## 📄 Research
 
-| Project | What it does | Stack |
-|---|---|---|
-| **ARISE** | RAG system that turns project documents and stakeholder inputs into Arcadia-compliant requirements | Python · LLMs · RAG |
-| **Local RAG MBSE** | Local, context-aware assistant for Arcadia phases (operational → physical architecture) | Python · Ollama · vector store |
-| **Baṣīra** | Research-oriented literature monitor: scores papers, surfaces what you'd have missed, synthesises the state of the art | FastAPI · React · Docker |
-| **[video-translator](https://github.com/Rachidusfallensis/video-translator)** | Translates and subtitles videos automatically | Python |
-| **HAPS** | Reinforcement learning for energy-efficient HAPS platforms | Python |
+> **ARISE: A Multi-Agent Architecture for Requirements Specification in Model-Based Systems Engineering Workflows**
+> **A. Fall**, N. Evain, E. Exposito, P. Arnould, G. Jouffrai, A. Vidon
+> *34th IEEE International Conference on Enabling Technologies (WETICE 2026)*, Paris
+>
+> [![HAL](https://img.shields.io/badge/HAL-hal--05803598-B03A2E?style=for-the-badge&logo=hal&logoColor=white)](https://hal.science/hal-05803598)
 
----
-
-### Tech stack
-
-**AI &amp; Systems Engineering**
-
-![LLM](https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white)
-![Capella](https://img.shields.io/badge/Arcadia_%2F_Capella-1B5E9E?style=for-the-badge&logo=eclipseide&logoColor=white)
-
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-**Data, Web &amp; DevOps**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+Earlier work — energy optimisation of **High-Altitude Platform Stations (HAPS)** with reinforcement learning (MSc thesis, Université Alioune Diop).
 
 ---
 
-### Education
+## 🚀 Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🏗️ ARISE</h3>
+      RAG system that turns project documents and stakeholder inputs into Arcadia-compliant, traceable requirements.<br><br>
+      <code>Python</code> <code>LLMs</code> <code>RAG</code> <code>Arcadia</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🧠 Local RAG MBSE</h3>
+      Local, context-aware assistant covering every Arcadia phase, from operational analysis to physical architecture.<br><br>
+      <code>Python</code> <code>Ollama</code> <code>Vector store</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔭 Baṣīra</h3>
+      Research-oriented literature monitor: scores papers, surfaces what you'd have missed, synthesises the state of the art.<br><br>
+      <code>FastAPI</code> <code>React</code> <code>Docker</code> <code>LLMs</code>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎬 <a href="https://github.com/Rachidusfallensis/video-translator">video-translator</a></h3>
+      Automatic translation and subtitling of videos.<br><br>
+      <code>Python</code> <code>Speech-to-text</code> <code>Translation</code>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,java,bash,latex,pytorch,tensorflow,sklearn&perline=8" alt="Languages and ML" /><br>
+  <img src="https://skillicons.dev/icons?i=fastapi,react,postgres,mongodb,docker,kubernetes,linux,git&perline=8" alt="Data, web and DevOps" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM_Agents-412991?style=for-the-badge&logo=openai&logoColor=white" alt="LLM agents" />
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" alt="Neo4j" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Airflow" />
+  <img src="https://img.shields.io/badge/Arcadia_%2F_Capella-1B5E9E?style=for-the-badge&logo=eclipseide&logoColor=white" alt="Arcadia / Capella" />
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api?username=Rachidusfallensis&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.hackclub.dev/api/top-langs/?username=Rachidusfallensis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rachidusfallensis&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Rachidusfallensis&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
+</p>
+
+---
+
+## 🎓 Education
 
 | Degree | School |
 |---|---|
@@ -89,16 +125,12 @@ Earlier work: energy optimisation of **High-Altitude Platform Stations (HAPS)** 
 
 ---
 
-### GitHub stats
+## 🤝 Let's connect
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Rachidusfallensis&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Arona's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rachidusfallensis&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <a href="https://www.linkedin.com/in/arona-fall-62b900194"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://hal.science/hal-05803598"><img src="https://img.shields.io/badge/HAL-Publications-B03A2E?style=for-the-badge&logo=hal&logoColor=white" alt="HAL" /></a>
+  <a href="mailto:fall.arona@univ-pau.fr"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
----
-
-### Let's connect
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arona-fall-62b900194)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fall.arona@univ-pau.fr)
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" alt="" />
